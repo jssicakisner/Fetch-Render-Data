@@ -5,7 +5,7 @@
 ## Description
 
 Simple display of global temperature data on a chart, compared by hemispheres.
-The data is provided by NASA and can be found in [a link](https://data.giss.nasa.gov/gistemp/).
+The data is provided by NASA and can be found [here](https://data.giss.nasa.gov/gistemp/).
 
 
 ## Technologies Used
